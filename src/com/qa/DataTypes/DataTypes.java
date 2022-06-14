@@ -3,7 +3,7 @@ package com.qa.DataTypes;
 public class DataTypes {
 
 	public static void main(String[] args) {
-		System.out.print(methodName());
+		System.out.print(methodName3());
 	}
 	
 	public static int methodName() {
@@ -13,11 +13,11 @@ public class DataTypes {
 	public static boolean methodName2() {
 		return true;
 	}
-	public char methodName3() {
+	public static char methodName3() {
 		return 'a';
 	}
 	
-	public float methodName4() {
+	public static float methodName4() {
 		return 0.6f;
 	}
 

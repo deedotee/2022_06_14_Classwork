@@ -1,4 +1,4 @@
-package FlowOfControl;
+package com.qa.FlowOfControl;
 
 public class FlowOfControl {
 
